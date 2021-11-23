@@ -1,0 +1,16 @@
+body{
+    background-color: eggshell;
+}
+/* Xaxis & Yaxis */
+#xAxis, #yAxis{
+    font-size: 1.2em;
+}
+#title{
+    text-align: center;
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+svg{
+    margin-left: 15%;
+}
